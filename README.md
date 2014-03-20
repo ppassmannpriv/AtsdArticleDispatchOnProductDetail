@@ -9,3 +9,8 @@ This basic Plugin will provide you with a block to put in your template and make
 The Block can be called by using the following in your detail index.
 
     {block name="frontend_detail_index_shippingcost"}
+
+
+---
+
+###### Requires: http://store.shopware.de/internationalisierung/versandarten-und-aufschlaege-pro-artikel-festlegen ######
