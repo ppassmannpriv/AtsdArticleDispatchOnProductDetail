@@ -1,0 +1,1 @@
+This basic Plugin will provide you with a block to put in your template and make the surcharge coming from the Atsd Article Dispatch Surcharge plugin by Aquatuning GmbH visible on your product detail page.
